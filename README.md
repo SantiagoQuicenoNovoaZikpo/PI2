@@ -4,17 +4,24 @@ PI2 Henry
 
 ## Introducción
 
-Las telecomunicaciones se refieren a la transmisión de información a través de medios electrónicos, como la telefonía, la televisión, la radio y, más recientemente, el internet. Estos medios de comunicación permiten la transmisión de información entre personas, organizaciones y dispositivos a largas distancias.
+En la era digital actual, las telecomunicaciones representan un pilar fundamental en la transmisión de información a través de medios electrónicos, como la telefonía, la televisión, la radio y, más recientemente, el internet. Estos medios permiten la comunicación efectiva entre individuos, organizaciones y dispositivos a largas distancias.
 
-El internet, por su parte, es una red global de computadoras interconectadas que permite el intercambio de información en tiempo real. Desde su creación, ha tenido un impacto significativo en la vida de las personas, transformando la manera en que nos comunicamos, trabajamos, aprendemos y nos entretenemos.
+El internet se ha consolidado como una red global de computadoras interconectadas que facilita el intercambio de información en tiempo real. Desde su creación, ha transformado significativamente la forma en que nos comunicamos, trabajamos, aprendemos y nos entretenemos.
 
-La industria de las telecomunicaciones ha jugado un papel vital en nuestra sociedad, facilitando la información a escala internacional y permitiendo la comunicación continua incluso en medio de una pandemia mundial. La transferencia de datos y comunicación se realiza en su mayoría a través de internet, líneas telefónicas fijas, telefonía móvil, y en casi cualquier lugar del mundo.
+La industria de las telecomunicaciones ha sido crucial para nuestra sociedad, especialmente en tiempos de crisis como la pandemia mundial, permitiendo la continuidad de la comunicación y el acceso a la información a escala global. La transferencia de datos se realiza mayormente a través de internet, líneas telefónicas fijas y telefonía móvil, lo que garantiza conectividad en casi cualquier lugar del mundo.
 
-En comparación con la media mundial, Argentina está a la vanguardia en el desarrollo de las telecomunicaciones, teniendo para el 2020 un total de 62,12 millones de conexiones.
+En comparación con la media mundial, Argentina destaca en el desarrollo de las telecomunicaciones, alcanzando un total de 62,12 millones de conexiones para el año 2020. Este proyecto tiene como objetivo analizar el estado actual del acceso a internet y la velocidad de conexión en Argentina, identificar áreas de mejora y establecer indicadores clave de rendimiento (KPIs) que permitan monitorear el desempeño y alcanzar objetivos específicos.
 
 ## Metodología
 
-Para realizar este análisis, se comenzó con un Análisis Exploratorio de Datos (EDA) utilizando Python. Se procesaron y limpiaron los datos para organizarlos en una nueva hoja de Excel, la cual se utilizó posteriormente en Power BI para la creación de un dashboard interactivo. Se definieron los siguientes cinco KPIs para medir y monitorear el desempeño en diferentes aspectos del acceso y la calidad del servicio de internet:
+### Análisis Exploratorio de Datos (EDA)
+Para comenzar, se realizó un Análisis Exploratorio de Datos (EDA) utilizando Python. Este proceso incluyó la limpieza y organización de los datos, permitiendo identificar patrones, anomalías y relaciones significativas entre las variables.
+
+### Creación del Dashboard en Power BI
+Con los datos organizados, se utilizó Power BI para crear un dashboard interactivo. Este dashboard facilita la visualización de los datos y proporciona una plataforma para el análisis dinámico, permitiendo a los usuarios interactuar con los datos y obtener insights relevantes.
+
+### Definición de KPIs
+Se definieron cinco indicadores clave de rendimiento (KPIs) para medir y monitorear diferentes aspectos del acceso y la calidad del servicio de internet:
 
 ### KPI 1: Velocidad Promedio de Conexión (Mbps)
 - **Descripción**: Promedio de la velocidad de conexión en Mbps.
@@ -57,6 +64,7 @@ Gracias por revisar este proyecto. Agradezco cualquier sugerencia o mejora que p
 ---
 
 **Autor**: Santiago Quiceno Novoa
+
 **Fecha**: 17/12/2024
 
 ---
