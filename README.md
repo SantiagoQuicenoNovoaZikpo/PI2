@@ -4,13 +4,17 @@ PI2 Henry
 
 ## Introducción
 
-En la era digital actual, las telecomunicaciones representan un pilar fundamental en la transmisión de información a través de medios electrónicos, como la telefonía, la televisión, la radio y, más recientemente, el internet. Estos medios permiten la comunicación efectiva entre individuos, organizaciones y dispositivos a largas distancias.
+El internet ha revolucionado la manera en que interactuamos con el mundo. Como una red global de computadoras interconectadas, permite el intercambio de información en tiempo real, convirtiéndose en una herramienta esencial para la comunicación, la educación, el entretenimiento y el comercio.
 
-El internet se ha consolidado como una red global de computadoras interconectadas que facilita el intercambio de información en tiempo real. Desde su creación, ha transformado significativamente la forma en que nos comunicamos, trabajamos, aprendemos y nos entretenemos.
+Uno de los mayores retos globales que enfrenta el internet es la inclusión digital. A pesar de sus beneficios, aún existen millones de personas sin acceso a esta red, lo que crea una brecha digital significativa. Esta desigualdad puede afectar negativamente las oportunidades educativas y laborales, además de limitar el acceso a información vital.
 
-La industria de las telecomunicaciones ha sido crucial para nuestra sociedad, especialmente en tiempos de crisis como la pandemia mundial, permitiendo la continuidad de la comunicación y el acceso a la información a escala global. La transferencia de datos se realiza mayormente a través de internet, líneas telefónicas fijas y telefonía móvil, lo que garantiza conectividad en casi cualquier lugar del mundo.
+Económicamente, el internet genera cantidades astronómicas de dinero. En 2020, se estimó que el sector de las tecnologías de la información y la comunicación (TIC), al cual pertenece el internet, generó más de 4.9 trillones de dólares a nivel mundial. Esta cifra subraya la importancia del internet como motor económico, impulsando la innovación, la productividad y el crecimiento en diversas industrias.
 
-En comparación con la media mundial, Argentina destaca en el desarrollo de las telecomunicaciones, alcanzando un total de 62,12 millones de conexiones para el año 2020. Este proyecto tiene como objetivo analizar el estado actual del acceso a internet y la velocidad de conexión en Argentina, identificar áreas de mejora y establecer indicadores clave de rendimiento (KPIs) que permitan monitorear el desempeño y alcanzar objetivos específicos.
+El internet apoya a la humanidad de innumerables maneras. Facilita la educación a través de cursos en línea y recursos educativos abiertos, permite el trabajo remoto y la colaboración global, y ofrece plataformas para la expresión y el activismo social. También es crucial en la atención médica, proporcionando telemedicina y acceso a información sanitaria.
+
+Sin embargo, el despliegue y mantenimiento de la infraestructura de internet involucra costos considerables. Desde la instalación de cables de fibra óptica hasta el mantenimiento de servidores y el desarrollo de tecnologías de ciberseguridad, los costos son significativos. Además, la expansión del internet a áreas rurales y remotas requiere inversiones sustanciales.
+
+Analizar la situación del acceso a internet y su velocidad de conexión es vital para identificar áreas de mejora y asegurar que todos puedan beneficiarse de esta herramienta poderosa. Este proyecto tiene como objetivo explorar estas dinámicas en Argentina, proporcionando una visión detallada a través de indicadores clave de rendimiento (KPIs) que ayudan a monitorear el desempeño y establecer objetivos claros para el futuro.
 
 ## Metodología
 
@@ -55,7 +59,17 @@ Se definieron cinco indicadores clave de rendimiento (KPIs) para medir y monitor
 
 ## Conclusiones
 
-El análisis revela tendencias importantes en la velocidad de conexión, el tipo de tecnología utilizada y la penetración del internet en diferentes provincias. Los KPIs definidos ayudan a monitorear el desempeño y establecer objetivos claros para mejorar el acceso y la calidad del servicio de internet. Se recomienda continuar con el monitoreo constante de estos indicadores y ajustar las estrategias según los resultados obtenidos.
+El análisis realizado revela importantes hallazgos sobre el estado del acceso a internet y la calidad de la conexión en Argentina. La velocidad promedio de conexión es un reflejo claro de la calidad del servicio de internet ofrecido; se encontró que las provincias con mayores velocidades promedio disponen de una infraestructura más desarrollada y servicios tecnológicos avanzados. Esto indica que mejorar la infraestructura en áreas con velocidades inferiores podría elevar significativamente la calidad del servicio.
+
+Por otro lado, la adopción de tecnologías de conexión muestra una preferencia creciente por la fibra óptica y el Cablemodem, mientras que tecnologías más antiguas como el ADSL están quedando en segundo plano. Esta transición hacia tecnologías más rápidas y fiables es una señal positiva del avance tecnológico y de la disposición de los usuarios a adoptar mejores servicios.
+
+Sin embargo, se identificaron brechas digitales significativas entre las provincias. Buenos Aires y Capital Federal presentan una tasa de penetración de internet mucho mayor en comparación con regiones más rurales. Esta disparidad destaca la necesidad urgente de invertir en infraestructura en áreas menos desarrolladas para asegurar que todas las provincias puedan disfrutar de los beneficios del acceso a internet.
+
+El análisis financiero reveló un incremento constante en los ingresos generados por los servicios de internet, lo que refleja la creciente adopción de estos servicios y la expansión de la base de usuarios. Este crecimiento financiero es fundamental para sustentar las inversiones necesarias en infraestructura y tecnología.
+
+Finalmente, se observó que la mayoría de los accesos a internet se encuentran en rangos de velocidad superiores, lo cual indica una demanda creciente por conexiones más rápidas y estables. Este comportamiento de los usuarios sugiere la necesidad de ajustar las ofertas y planes de servicios para satisfacer mejor las expectativas y necesidades de los consumidores.
+
+En conclusión, Argentina está progresando significativamente en términos de acceso y calidad del servicio de internet. No obstante, es esencial continuar invirtiendo en infraestructura, especialmente en las áreas rurales y menos desarrolladas, para reducir las brechas digitales y asegurar que todos los ciudadanos puedan beneficiarse del acceso a internet. Monitorear estos indicadores clave de rendimiento de manera constante permitirá adaptar estrategias efectivas y garantizar un desarrollo continuo y equitativo en el ámbito de las telecomunicaciones.
 
 ## Agradecimientos
 
